@@ -34,6 +34,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palakp-addweb&show_icons=true&locale=en&layout=compact" alt="palakp-addweb" /></p>
