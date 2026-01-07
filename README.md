@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Patel</h1>
-<h3 align="center">WordPress Developer | Custom Design | Plugin Integration | UX-Focused | 5+ Years Experience </h3>
+<h3 align="center">WordPress Developer | Custom Design | Plugin Integration | UX-Focused | 6+ Years Experience </h3>
 
 - 🌱 I’m currently learning **plugin development, site speed optimization, and advanced WordPress features.**  
 
